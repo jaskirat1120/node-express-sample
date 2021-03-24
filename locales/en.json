@@ -1,0 +1,10 @@
+{
+	"INVALID_TOKEN_TYPE":"Token type must be of Bearer type.",
+	"INVALID_TOKEN":"Invalid token.",
+	"ALREADY_UNBLOCKED":"Already unblocked.",
+	"UNAUTHORIZED":"Sorry, you are not authorized to perform this action",
+	"SOMETHING_WENT_WRONG":"Something went wrong on server",
+	"DB_ERROR":"DB Error : ",
+	"DUPLICATE":"Duplicate Entry",
+	"TOKEN_REQUIRED": "Authorization token is required."
+}
